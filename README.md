@@ -6,7 +6,7 @@ Please see the detailed instructions for using our mFACT metrics in [mfact](mfac
 
 ## News
 
-* **mFACT metrics for six languages are now avaliable at HuggingFace!**
+* **mFACT metrics for six languages are now avaliable at HuggingFace! (20/05/2023)**
 
 ## Released Mateirals
 
@@ -129,5 +129,52 @@ Here is a quick navigation to all our released materials.
       <td></td>
    </tr>
 </table>
+
+### MAD-X Summarizer
+<table>
+   <tr>
+      <td></td>
+      <td>Languages</td>
+      <td>Checkpoints</td>
+      <td>Outputs</td>
+   </tr>
+   <tr>
+      <td>WL-Summ</td>
+      <td>Chinese</td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Spanish</td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>French</td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Hindi</td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Vietnamese</td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Turkish</td>
+      <td></td>
+      <td></td>
+   </tr>
+</table>
+
 
 ## Citation
