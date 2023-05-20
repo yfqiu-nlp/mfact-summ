@@ -139,7 +139,7 @@ Here is a quick navigation to all our released materials.
       <td>Outputs</td>
    </tr>
    <tr>
-      <td>WL-Summ</td>
+      <td>MAD-X</td>
       <td>Chinese</td>
       <td></td>
       <td></td>
@@ -175,6 +175,47 @@ Here is a quick navigation to all our released materials.
       <td></td>
    </tr>
 </table>
+
+
+### Language Adapters for mBART-50
+<table>
+   <tr>
+      <td></td>
+      <td>Languages</td>
+      <td>Checkpoints</td>
+   </tr>
+   <tr>
+      <td>MAD-X</td>
+      <td>Chinese</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Spanish</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>French</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Hindi</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Vietnamese</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Turkish</td>
+      <td></td>
+   </tr>
+</table>
+
 
 
 ## Citation
