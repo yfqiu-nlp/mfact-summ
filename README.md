@@ -20,27 +20,27 @@ Here is a quick navigation to all our released materials.
    </tr>
    <tr>
       <td>Chinese</td>
-      <td>[mFACT-zh_CN](https://huggingface.co/yfqiu-nlp/mFACT-zh_CN)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-zh_CN</td>
    </tr>
    <tr>
       <td>Spanish</td>
-      <td>[mFACT-es_XX](https://huggingface.co/yfqiu-nlp/mFACT-es_XX)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-es_XX</td>
    </tr>
    <tr>
       <td>French</td>
-      <td>[mFACT-fr_XX](https://huggingface.co/yfqiu-nlp/mFACT-fr_XX)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-fr_XX</td>
    </tr>
    <tr>
       <td>Hindi</td>
-      <td>[mFACT-hi_IN](https://huggingface.co/yfqiu-nlp/mFACT-hi_IN)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-hi_IN</td>
    </tr>
    <tr>
       <td>Vietnamese</td>
-      <td>[mFACT-vi_VN](https://huggingface.co/yfqiu-nlp/mFACT-vi_VN)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-vi_VN</td>
    </tr>
    <tr>
       <td>Turkish</td>
-      <td>[mFACT-tr_TR](https://huggingface.co/yfqiu-nlp/mFACT-tr_TR)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-tr_TR</td>
    </tr>
 </table>
 
@@ -55,32 +55,32 @@ Here is a quick navigation to all our released materials.
    <tr>
       <td>mFACT</td>
       <td>Chinese</td>
-      <td>[mFACT-zh_CN](https://huggingface.co/yfqiu-nlp/mFACT-zh_CN)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-zh_CN</td>
    </tr>
    <tr>
       <td></td>
       <td>Spanish</td>
-      <td>[mFACT-es_XX](https://huggingface.co/yfqiu-nlp/mFACT-es_XX)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-es_XX</td>
    </tr>
    <tr>
       <td></td>
       <td>French</td>
-      <td>[mFACT-fr_XX](https://huggingface.co/yfqiu-nlp/mFACT-fr_XX)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-fr_XX</td>
    </tr>
    <tr>
       <td></td>
       <td>Hindi</td>
-      <td>[mFACT-hi_IN](https://huggingface.co/yfqiu-nlp/mFACT-hi_IN)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-hi_IN</td>
    </tr>
    <tr>
       <td></td>
       <td>Vietnamese</td>
-      <td>[mFACT-vi_VN](https://huggingface.co/yfqiu-nlp/mFACT-vi_VN)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-vi_VN</td>
    </tr>
    <tr>
       <td></td>
       <td>Turkish</td>
-      <td>[mFACT-tr_TR](https://huggingface.co/yfqiu-nlp/mFACT-tr_TR)</td>
+      <td>https://huggingface.co/yfqiu-nlp/mFACT-tr_TR</td>
    </tr>
 </table>
 
