@@ -170,66 +170,66 @@ Please check both our trained langauge and summarisation adapter in  [huggingfac
    </tr>
    <tr>
       <td>Chinese</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>28.97</td>
+      <td>34.58</td>
+      <td>30.62</td>
       <td>
-        <a href="https://drive.google.com/file/d/1oIHJMn7zwxKWrayNxiU42aduQw5QQ4hT/view?usp=share_link">
+        <a href="https://drive.google.com/file/d/1goEapvFahhovxtYKpDWa_5XdIPjukqwk/view?usp=share_link">
             Google drive
         </a>
       </td>
    </tr>
    <tr>
       <td>Spanish</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>22.83</td>
+      <td>21.24</td>
+      <td>29.28</td>
       <td>
-        <a href="https://drive.google.com/file/d/1esq1joNOu71binoFgHL7JuOrvy4JhKV0/view?usp=share_link">
+        <a href="https://drive.google.com/file/d/17U1YHp_QOXLWstV_EGe10lpatQoHTipp/view?usp=share_link">
             Google drive
         </a>
       </td>
    </tr>
    <tr>
       <td>French</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>25.80</td>
+      <td>40.24</td>
+      <td>43.64</td>
       <td>
-        <a href="https://drive.google.com/file/d/1khWkb5gKD4tdjmet9IEjEhmRM8Ik-lAF/view?usp=share_link">
+        <a href="https://drive.google.com/file/d/1OIOgQhU-8ajlvG-Cs0tmCoQJo-NSaTwG/view?usp=share_link">
             Google drive
         </a>
       </td>
    </tr>
    <tr>
       <td>Hindi</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>24.79</td>
+      <td>25.74</td>
+      <td>16.89</td>
       <td>
-        <a href="https://drive.google.com/file/d/1esMLR9bJKhRpcHJgZfadNz98tsWU-0F7/view?usp=share_link">
+        <a href="https://drive.google.com/file/d/1XXgWsamD5DwKinqFnfF_WOldzVUd2N_R/view?usp=share_link">
             Google drive
         </a>
       </td>
    </tr>
    <tr>
       <td>Vietnamese</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>26.97</td>
+      <td>34.59</td>
+      <td>35.21</td>
       <td>
-        <a href="https://drive.google.com/file/d/1sjNv70DVZJKeq_MfJecIynRPA9ucvayZ/view?usp=share_link">
+        <a href="https://drive.google.com/file/d/1cZJLIJrT40domeCK_PoCDmU1CM3qzByu/view?usp=share_link">
             Google drive
         </a>
       </td>
    </tr>
    <tr>
       <td>Turkish</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>17.05</td>
+      <td>32.15</td>
+      <td>22.63</td>
       <td>
-        <a href="https://drive.google.com/file/d/1U2X5wqBoHQTipdtj-VDqMRgv9PAvOk28/view?usp=share_link">
+        <a href="https://drive.google.com/file/d/1mEya871CsO5PzQQ2MLzW-dOiJQopMQ5j/view?usp=share_link">
             Google drive
         </a>
       </td>
