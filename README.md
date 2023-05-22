@@ -80,7 +80,7 @@ We upload our curated multiligual faithfulness classification dataset in [huggin
 </table>
 
 ### Loss-Weighting Summarizer
-Please check both our trained langauge and summarisation adapter in  [huggingface](https://huggingface.co/datasets/yfqiu-nlp/mfact-weighted-loss).
+Please check both our trained langauge and summarisation adapter in  [huggingface](https://huggingface.co/yfqiu-nlp/mfact-weighted-loss).
 
 <table>
    <tr>
@@ -159,6 +159,8 @@ Please check both our trained langauge and summarisation adapter in  [huggingfac
 </table>
 
 ### MAD-X Summarizer
+
+Please check both our trained langauge and summarisation adapter in  [huggingface](https://huggingface.co/yfqiu-nlp/mfact-mad-x).
 
 <table>
    <tr>
