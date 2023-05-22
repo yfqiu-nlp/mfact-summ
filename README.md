@@ -51,142 +51,74 @@ We upload our curated multiligual faithfulness classification dataset in [huggin
    <tr>
       <td></td>
       <td>Turkish</td>
-      <td>https://huggingface.co/yfqiu-nlp/mFACT-tr_TR</td>
+      <td>
+      
+      [HF link](https://huggingface.co/yfqiu-nlp/mFACT-tr_TR)
+      
+      </td>
    </tr>
 </table>
 
 ### Loss-Weighting Summarizer
+Please check both our trained langauge and summarisation adapter in  [huggingface](https://huggingface.co/datasets/yfqiu-nlp/mfact-weighted-loss).
+
 <table>
    <tr>
-      <td></td>
       <td>Languages</td>
-      <td>Checkpoints</td>
+      <td>R-1</td>
+      <td>mFACT</td>
+      <td>mFACT-Transfer</td>
       <td>Outputs</td>
    </tr>
    <tr>
-      <td>WL-Summ</td>
       <td>Chinese</td>
-      <td></td>
+      <td>31.25</td>
+      <td>42.97</td>
+      <td>36.02</td>
       <td></td>
    </tr>
    <tr>
-      <td></td>
       <td>Spanish</td>
-      <td></td>
+      <td>23.49</td>
+      <td>23.37</td>
+      <td>33.11</td>
       <td></td>
    </tr>
    <tr>
-      <td></td>
       <td>French</td>
-      <td></td>
+      <td>27.46</td>
+      <td>37.11</td>
+      <td>40.88</td>
       <td></td>
    </tr>
    <tr>
-      <td></td>
       <td>Hindi</td>
-      <td></td>
+      <td>24.97</td>
+      <td>34.26</td>
+      <td>26.46</td>
       <td></td>
    </tr>
    <tr>
-      <td></td>
       <td>Vietnamese</td>
-      <td></td>
-      <td></td>
+      <td>28.04</td>
+      <td>39.47</td>
+      <td>38.20</td>
+      <td>
+      
+      [google dirve](https://drive.google.com/file/d/1sjNv70DVZJKeq_MfJecIynRPA9ucvayZ/view?usp=share_link)
+      
+      </td>
    </tr>
    <tr>
-      <td></td>
       <td>Turkish</td>
-      <td></td>
+      <td>17.38</td>
+      <td>37.80</td>
+      <td>29.20</td>
       <td></td>
    </tr>
 </table>
 
 ### MAD-X Summarizer
-<table>
-   <tr>
-      <td></td>
-      <td>Languages</td>
-      <td>Checkpoints</td>
-      <td>Outputs</td>
-   </tr>
-   <tr>
-      <td>MAD-X</td>
-      <td>Chinese</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Spanish</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>French</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Hindi</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Vietnamese</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Turkish</td>
-      <td></td>
-      <td></td>
-   </tr>
-</table>
-
-
-### Language Adapters for mBART-50
-<table>
-   <tr>
-      <td></td>
-      <td>Languages</td>
-      <td>Checkpoints</td>
-   </tr>
-   <tr>
-      <td>MAD-X</td>
-      <td>Chinese</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Spanish</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>French</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Hindi</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Vietnamese</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Turkish</td>
-      <td></td>
-   </tr>
-</table>
-
 
 
 ## Citation
