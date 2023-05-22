@@ -13,37 +13,8 @@ Please see the detailed instructions for using our mFACT metrics in [mfact](mfac
 Here is a quick navigation to all our released materials.
 
 ### Translated Faithfulness Classification Datasets
-<table>
-   <tr>
-      <td>Languages</td>
-      <td>HF Datasets</td>
-   </tr>
-   <tr>
-      <td>Chinese</td>
-      <td>https://huggingface.co/yfqiu-nlp/mFACT-zh_CN</td>
-   </tr>
-   <tr>
-      <td>Spanish</td>
-      <td>https://huggingface.co/yfqiu-nlp/mFACT-es_XX</td>
-   </tr>
-   <tr>
-      <td>French</td>
-      <td>https://huggingface.co/yfqiu-nlp/mFACT-fr_XX</td>
-   </tr>
-   <tr>
-      <td>Hindi</td>
-      <td>https://huggingface.co/yfqiu-nlp/mFACT-hi_IN</td>
-   </tr>
-   <tr>
-      <td>Vietnamese</td>
-      <td>https://huggingface.co/yfqiu-nlp/mFACT-vi_VN</td>
-   </tr>
-   <tr>
-      <td>Turkish</td>
-      <td>https://huggingface.co/yfqiu-nlp/mFACT-tr_TR</td>
-   </tr>
-</table>
 
+We upload our curated multiligual faithfulness classification dataset in [huggingface](https://huggingface.co/datasets/yfqiu-nlp/mfact-classification).
 
 ### mFACT Metrics
 <table>
