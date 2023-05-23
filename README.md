@@ -2,7 +2,7 @@
 
 Code and materials for the [paper]() "Detecting and Mitigating Hallucinations in Multilingual Summarisation". 
 
-Please see the detailed instructions for using our mFACT metrics in [mfact](mfact/), and for using our loss weighing model in [loss-weighting](loss-weighting).
+Please see the detailed instructions for using our mFACT metrics in [mfact](mfact/), and our loss weighing model in [loss-weighting](loss-weighting).
 
 ## News
 
@@ -14,7 +14,7 @@ Here is a quick navigation to all our released materials.
 
 ### Translated Faithfulness Classification Datasets
 
-We upload our curated multiligual faithfulness classification dataset in [huggingface](https://huggingface.co/datasets/yfqiu-nlp/mfact-classification).
+We upload our curated multilingual faithfulness classification dataset in [huggingface](https://huggingface.co/datasets/yfqiu-nlp/mfact-classification).
 
 ### mFACT Metrics
 <table>
@@ -73,10 +73,10 @@ We upload our curated multiligual faithfulness classification dataset in [huggin
    </tr>
 </table>
 
-mFACT-Transfer: this is the version we trained on our English faithfulness classification dataset and perform zero-shot transfer for other language. See the checkpoint [here](). 
+mFACT-Transfer: this is the version we trained on our English faithfulness classification dataset and performed zero-shot transfer for other languages. See the checkpoint [here](). 
 
 ### Loss-Weighting Summarizer
-Please check both our trained langauge and summarisation adapter in  [huggingface](https://huggingface.co/yfqiu-nlp/mfact-weighted-loss).
+Please check both our trained language and summarisation adapter in  [huggingface](https://huggingface.co/yfqiu-nlp/mfact-weighted-loss).
 
 <table>
    <tr>
@@ -156,7 +156,7 @@ Please check both our trained langauge and summarisation adapter in  [huggingfac
 
 ### MAD-X Summarizer
 
-Please check both our trained langauge and summarisation adapter in  [huggingface](https://huggingface.co/yfqiu-nlp/mfact-mad-x).
+Please check both our trained language and summarisation adapter in  [huggingface](https://huggingface.co/yfqiu-nlp/mfact-mad-x).
 
 <table>
    <tr>
