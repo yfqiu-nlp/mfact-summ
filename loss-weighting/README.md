@@ -96,6 +96,8 @@ python3 adapter-transformers/examples/pytorch/summarization/run_summarization_ou
     --weighted_loss \
 ```
 
+You are expected to train a model with the similar performance as our following tables. Note that we select the model checkpoint based on the best validation mFACT-English score.
+
 ## Checkpoints and Outputs
 
 ### Loss-Weighting Summarizer
