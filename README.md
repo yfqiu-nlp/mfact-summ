@@ -1,10 +1,13 @@
 # Detecting and Mitigating Hallucinations in Multilingual Summarisation
 
+[**Updates**](#updates) | [**mFACT**](/mfact/) | [**Loss-weighting**](/loss-weighting/) | [**Cite**](#citation) | [**Paper**](https://arxiv.org/abs/2305.13632v1)
+
+
 Code and materials for the [paper](https://arxiv.org/abs/2305.13632v1) "Detecting and Mitigating Hallucinations in Multilingual Summarisation". 
 
 Please see the detailed instructions for using our mFACT metrics in [mfact](mfact/), and our loss weighing model in [loss-weighting](loss-weighting).
 
-## News
+## Updates
 
 * **mFACT metrics for six languages are now avaliable at HuggingFace! (20/05/2023)**
 
