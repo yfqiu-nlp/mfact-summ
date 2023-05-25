@@ -6,6 +6,8 @@ Install the environment with the following requirements,
 
 ```
 python3 -m pip install requirements.txt
+mkdir dataset
+mkdir models
 ```
 
 We use the code from `adapter-transformers` for our implementaiton of adapters in MAD-X and loss-weighing model. Thanks for their nice work!
