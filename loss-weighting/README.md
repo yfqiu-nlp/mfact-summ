@@ -48,6 +48,8 @@ python3 adapter-transformers/examples/pytorch/summarization/run_summarization.py
 
 ### Model Training
 
+If you want to use our processed dataet for xlsum English split with weighting score, please download the dataset [here](https://huggingface.co/datasets/yfqiu-nlp/xlsum-en_XX-weights) and place the `xlsum-en_XX-*.csv` file to `./dataset/xlsum-weight/`. 
+
 To train weighting-loss model on `SRC` language, please follow the example for English (en_XX) here,
 
 ```
