@@ -1,6 +1,6 @@
 # Detecting and Mitigating Hallucinations in Multilingual Summarisation
 
-Code and materials for the [paper]() "Detecting and Mitigating Hallucinations in Multilingual Summarisation". 
+Code and materials for the [paper](https://arxiv.org/abs/2305.13632v1) "Detecting and Mitigating Hallucinations in Multilingual Summarisation". 
 
 Please see the detailed instructions for using our mFACT metrics in [mfact](mfact/), and our loss weighing model in [loss-weighting](loss-weighting).
 
@@ -21,7 +21,6 @@ We upload our curated multilingual faithfulness classification dataset in [huggi
    <tr>
       <td>Languages</td>
       <td>mFACT</td>
-      <td>XNLI</td>
    </tr>
    <tr>
       <td>Chinese</td>
@@ -235,3 +234,14 @@ Please check both our trained language and summarisation adapter in  [huggingfac
 </table>
 
 ## Citation
+
+```
+@misc{qiu2023detecting,
+      title={Detecting and Mitigating Hallucinations in Multilingual Summarisation}, 
+      author={Yifu Qiu and Yftah Ziser and Anna Korhonen and Edoardo M. Ponti and Shay B. Cohen},
+      year={2023},
+      eprint={2305.13632},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
