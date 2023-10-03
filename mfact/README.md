@@ -9,7 +9,7 @@ python3 -m pip install requirements.txt
 ```
 ## Dataset for Training mFACT
 
-You can download our synthesised dataset for training mFACT from [google cloud](https://drive.google.com/drive/folders/1WbTqPWLGTGkJFgVxVehPMjM0rYGUwwG7?usp=sharing) for `en, es, fr, zh, hi, tr, vi`.
+You can download our synthesised dataset for training mFACT from [google drive](https://drive.google.com/drive/folders/1WbTqPWLGTGkJFgVxVehPMjM0rYGUwwG7?usp=sharing) for `en, es, fr, zh, hi, tr, vi`.
 
 ## Usage
 

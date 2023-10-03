@@ -17,7 +17,7 @@ Here is a quick navigation to all our released materials.
 
 ### Translated Faithfulness Classification Datasets
 
-We upload our curated multilingual faithfulness classification dataset in [huggingface](https://huggingface.co/datasets/yfqiu-nlp/mfact-classification).
+We upload our curated multilingual faithfulness classification dataset in [google drive](https://drive.google.com/drive/folders/1WbTqPWLGTGkJFgVxVehPMjM0rYGUwwG7).
 
 ### mFACT Metrics
 <table>
@@ -73,9 +73,17 @@ We upload our curated multilingual faithfulness classification dataset in [huggi
         </a>
       </td>
    </tr>
+   <tr>
+      <td>English (mFACT-Transfer)</td>
+      <td>
+        <a href="https://huggingface.co/yfqiu-nlp/mFACT-en_XX">
+            HF link
+        </a>
+      </td>
+   </tr>
 </table>
 
-mFACT-Transfer: this is the version we trained on our English faithfulness classification dataset and performed zero-shot transfer for other languages. See the checkpoint [here](). 
+Note: mFACT-Transfer - this is the version we trained on our English faithfulness classification dataset and performed zero-shot transfer for other languages.
 
 ### Loss-Weighting Summarizer
 Please check both our trained language and summarisation adapter in  [huggingface](https://huggingface.co/yfqiu-nlp/mfact-weighted-loss).
