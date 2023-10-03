@@ -9,7 +9,7 @@ python3 -m pip install requirements.txt
 ```
 ## Dataset for Training mFACT
 
-You can download our synthesised dataset for training mFACT from [google cloud](https://drive.google.com/drive/folders/1WbTqPWLGTGkJFgVxVehPMjM0rYGUwwG7?usp=sharing).
+You can download our synthesised dataset for training mFACT from [google cloud](https://drive.google.com/drive/folders/1WbTqPWLGTGkJFgVxVehPMjM0rYGUwwG7?usp=sharing) for `en, es, fr, zh, hi, tr, vi`.
 
 ## Usage
 
@@ -40,7 +40,7 @@ python examples/pytorch/text-classification/run_hallu_classification.py \
 
 ### Inference
 
-We provide an [example](./xlsum-zh-hallu-classification-input.csv) of inputs for using mFACT as evaluation metrics.
+We provide an [example](./xlsum-zh-hallu-classification-input.csv) of inputs for using mFACT in as evaluation metrics.
 
 ```
 lang=zh_CN
