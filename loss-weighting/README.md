@@ -26,7 +26,7 @@ To use our model for inference on `TGT` language, please follow the example for 
 TGT="zh_CN"
 pretrained="facebook/mbart-large-50"
 
-python3 adapter-transformers/examples/pytorch/summarization/run_summarization.py \
+python3 examples/pytorch/summarization/run_summarization.py \
     --model_name_or_path ${pretrained} \
     --do_predict \
     --test_file "dataset/xlsum-"${TGT}"-test.csv" \
